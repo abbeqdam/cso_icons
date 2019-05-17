@@ -31,145 +31,165 @@ h2 { background-color: #ffe7e7;
 
  /* CSO icons*/
  .tess-icon-trade {background-position:  0px 0px;}
-.tess-icon-coupa {background-position:  0px -20px;}
-.tess-icon-guide {background-position:  0px -40px;}
-.tess-icon-article {background-position:  0px -80px;}
-.tess-icon-document {background-position:  0px -100px;}
-.tess-icon-sheet {background-position:  0px -120px;}
-.tess-icon-report {background-position:  0px -140px;}
-.tess-icon-templateproject {background-position:  0px -160px;}
-.tess-icon-templatemail {background-position:  0px -180px;}
-.tess-icon-excel {background-position:  0px -200px;}
-.tess-icon-list {background-position:  0px -220px;}
-.tess-icon-form {background-position:  0px -240px;}
-.tess-icon-formsmall {background-position:  0px -260px;}
-.tess-icon-warning {background-position:  0px -280px;}
-.tess-icon-disabled {background-position:  0px -300px;}
-.tess-icon-comment {background-position:  0px -320px;}
-.tess-icon-chat {background-position:  0px -340px;}
-.tess-icon-user {background-position:  0px -360px;}
-.tess-icon-group {background-position:  0px -380px;}
-.tess-icon-listsmall {background-position:  0px -400px;}
-.tess-icon-listbig {background-position:  0px -420px;}
-.tess-icon-grid {background-position:  0px -440px;}
-.tess-icon-menudots {background-position:  0px -460px;}
-.tess-icon-areaexpand {background-position:  0px -480px;}
-.tess-icon-areaminimize {background-position:  0px -500px;}
-.tess-icon-popup {background-position:  0px -520px;}
-.tess-icon-breadcrumbarrow {background-position:  0px -540px;}
-.tess-icon-columnnavleft {background-position:  0px -560px;}
-.tess-icon-columnnavright {background-position:  0px -580px;}
-.tess-icon-bold {background-position:  -20px 0px;}
-.tess-icon-italic {background-position:  -20px -20px;}
-.tess-icon-textsize {background-position:  -20px -40px;}
-.tess-icon-listbullets {background-position:  -20px -60px;}
-.tess-icon-listnumbers {background-position:  -20px -80px;}
-.tess-icon-quote {background-position:  -20px -100px;}
-.tess-icon-link {background-position:  -20px -120px;}
-.tess-icon-mention {background-position:  -20px -140px;}
-.tess-icon-multiplechoice {background-position:  -20px -160px;}
-.tess-icon-number {background-position:  -20px -180px;}
-.tess-icon-text {background-position:  -20px -200px;}
-.tess-icon-calendar {background-position:  -20px -220px;}
-.tess-icon-percent {background-position:  -20px -240px;}
-.tess-icon-fx {background-position:  -20px -260px;}
-.tess-icon-fxnumber {background-position:  -20px -280px;}
-.tess-icon-fxtext {background-position:  -20px -300px;}
-.tess-icon-union {background-position:  -20px -320px;}
-.tess-icon-subtract {background-position:  -20px -340px;}
-.tess-icon-intersect {background-position:  -20px -360px;}
-.tess-icon-difference {background-position:  -20px -380px;}
-.tess-icon-noboolean {background-position:  -20px -400px;}
-.tess-icon-checklarge {background-position:  -20px -420px;}
-.tess-icon-xlarge {background-position:  -20px -440px;}
-.tess-icon-addlarge {background-position:  -20px -460px;}
-.tess-icon-dashlarge {background-position:  -20px -480px;}
-.tess-icon-check {background-position:  -40px 0px;}
-.tess-icon-dash {background-position:  -40px -20px;}
-.tess-icon-dot {background-position:  -40px -40px;}
-.tess-icon-x {background-position:  -40px -60px;}
-.tess-icon-add {background-position:  -40px -80px;}
-.tess-icon-square {background-position:  -40px -100px;}
-.tess-icon-squareoutline {background-position:  -40px -120px;}
-.tess-icon-circle {background-position:  -40px -140px;}
-.tess-icon-circleoutline {background-position:  -40px -160px;}
-.tess-icon-checksquare {background-position:  -40px -180px;}
-.tess-icon-dashsquare {background-position:  -40px -200px;}
-.tess-icon-dotsquare {background-position:  -40px -220px;}
-.tess-icon-xsquare {background-position:  -40px -240px;}
-.tess-icon-checksquareoutline {background-position:  -40px -260px;}
-.tess-icon-dashsquareoutline {background-position:  -40px -280px;}
-.tess-icon-dotsquareoutline {background-position:  -40px -300px;}
-.tess-icon-xsquareoutline {background-position:  -40px -320px;}
-.tess-icon-checkround {background-position:  -40px -340px;}
-.tess-icon-dashround {background-position:  -40px -360px;}
-.tess-icon-dotround {background-position:  -40px -380px;}
-.tess-icon-xround {background-position:  -40px -400px;}
-.tess-icon-checkroundoutline {background-position:  -40px -420px;}
-.tess-icon-dashroundoutline {background-position:  -40px -440px;}
-.tess-icon-dotroundoutline {background-position:  -40px -460px;}
-.tess-icon-xroundoutline {background-position:  -40px -480px;}
-.tess-icon-arrowup {background-position:  -60px 0px;}
-.tess-icon-arrowdown {background-position:  -60px -20px;}
-.tess-icon-arrowleft {background-position:  -60px -40px;}
-.tess-icon-arrowright {background-position:  -60px -60px;}
-.tess-icon-triangleup {background-position:  -60px -80px;}
-.tess-icon-triangledown {background-position:  -60px -100px;}
-.tess-icon-triangleleft {background-position:  -60px -120px;}
-.tess-icon-triangleright {background-position:  -60px -140px;}
-.tess-icon-minup {background-position:  -60px -160px;}
-.tess-icon-mindown {background-position:  -60px -180px;}
-.tess-icon-minleft {background-position:  -60px -200px;}
-.tess-icon-minright {background-position:  -60px -220px;}
-.tess-icon-maxup {background-position:  -60px -240px;}
-.tess-icon-maxdown {background-position:  -60px -260px;}
-.tess-icon-maxleft {background-position:  -60px -280px;}
-.tess-icon-maxright {background-position:  -60px -300px;}
-.tess-icon-chevronup {background-position:  -60px -320px;}
-.tess-icon-chevrondown {background-position:  -60px -340px;}
-.tess-icon-keyup {background-position:  -60px -360px;}
-.tess-icon-keydown {background-position:  -60px -380px;}
-.tess-icon-keyleft {background-position:  -60px -400px;}
-.tess-icon-keyright {background-position:  -60px -420px;}
-.tess-icon-keyreturn {background-position:  -60px -440px;}
-.tess-icon-bell {background-position:  -80px 0px;}
-.tess-icon-search {background-position:  -80px -20px;}
-.tess-icon-info {background-position:  -80px -40px;}
-.tess-icon-folder {background-position:  -80px -60px;}
-.tess-icon-folderopen {background-position:  -80px -80px;}
-.tess-icon-filter {background-position:  -80px -100px;}
-.tess-icon-mail {background-position:  -80px -120px;}
-.tess-icon-bidder {background-position:  -80px -140px;}
-.tess-icon-project {background-position:  -80px -160px;}
-.tess-icon-compass {background-position:  -80px -180px;}
-.tess-icon-flask {background-position:  -80px -200px;}
-.tess-icon-history {background-position:  -80px -220px;}
-.tess-icon-edit {background-position:  -80px -240px;}
-.tess-icon-settings {background-position:  -80px -260px;}
-.tess-icon-tabmenu {background-position:  -80px -280px;}
-.tess-icon-currency {background-position:  -80px -300px;}
-.tess-icon-location {background-position:  -80px -320px;}
-.tess-icon-transfer {background-position:  -80px -340px;}
-.tess-icon-scenario {background-position:  -80px -360px;}
-.tess-icon-constraint {background-position:  -80px -380px;}
-.tess-icon-truck {background-position:  -80px -400px;}
-.tess-icon-block {background-position:  -80px -420px;}
-.tess-icon-plan {background-position:  -80px -440px;}
-.tess-icon-help {background-position:  -80px -460px;}
-.tess-icon-world {background-position:  -80px -480px;}
-.tess-icon-data {background-position:  -80px -500px;}
-.tess-icon-drop {background-position:  -80px -520px;}
-.tess-icon-piechart {background-position:  -80px -540px;}
-.tess-icon-barchart {background-position:  -80px -560px;}
-.tess-icon-linechart {background-position:  -80px -580px;}
-.tess-icon-locked {background-position:  -80px -600px;}
-.tess-icon-unlocked {background-position:  -80px -620px;}
-.tess-icon-upload {background-position:  -80px -640px;}
-.tess-icon-download {background-position:  -80px -660px;}
-.tess-icon-utensils {background-position:  -80px -680px;}
-.tess-icon-visible {background-position:  -80px -700px;}
-.tess-icon-hidden {background-position:  -80px -720px;}
-.tess-icon-trumpet {background-position:  -80px -740px;}
-.tess-icon-clip {background-position:  -80px -760px;}
-.tess-icon-projectsmall {background-position:  -80px -780px;}
-.tess-icon-biddersmall {background-position:  -80px -800px;}
+ .tess-icon-coupa {background-position:  0px -20px;}
+ .tess-icon-guide {background-position:  0px -40px;}
+ .tess-icon-article {background-position:  0px -60px;}
+ .tess-icon-document {background-position:  0px -80px;}
+ .tess-icon-sheet {background-position:  0px -100px;}
+ .tess-icon-report {background-position:  0px -120px;}
+ .tess-icon-templateproject {background-position:  0px -140px;}
+ .tess-icon-templatemail {background-position:  0px -160px;}
+ .tess-icon-excel {background-position:  0px -180px;}
+ .tess-icon-list {background-position:  0px -200px;}
+ .tess-icon-form {background-position:  0px -220px;}
+ .tess-icon-formsmall {background-position:  0px -240px;}
+ .tess-icon-questionnaire {background-position:  0px -260px;}
+ .tess-icon-warning {background-position:  0px -280px;}
+ .tess-icon-disabled {background-position:  0px -300px;}
+ .tess-icon-comment {background-position:  0px -320px;}
+ .tess-icon-chat {background-position:  0px -340px;}
+ .tess-icon-user {background-position:  0px -360px;}
+ .tess-icon-group {background-position:  0px -380px;}
+ .tess-icon-listsmall {background-position:  0px -400px;}
+ .tess-icon-listbig {background-position:  0px -420px;}
+ .tess-icon-grid {background-position:  0px -440px;}
+ .tess-icon-visible {background-position:  -0px -460px;}
+ .tess-icon-hidden {background-position:  -0px -480px;}
+ .tess-icon-menusall {background-position:  0px -500px;}
+ .tess-icon-menussome{background-position:  0px -520px;}
+ .tess-icon-menusnone {background-position:  0px -540px;}
+ .tess-icon-menudots {background-position:  0px -560px;}
+ .tess-icon-areaexpand {background-position:  0px -580px;}
+ .tess-icon-areaminimize {background-position:  0px -600px;}
+ .tess-icon-popup {background-position:  0px -620px;}
+ .tess-icon-breadcrumbarrow {background-position:  0px -640px;}
+ .tess-icon-columnnavleft {background-position:  0px -660px;}
+ .tess-icon-columnnavright {background-position:  0px -680px;}
+ .tess-icon-home {background-position:  0px -700px;}
+
+ .tess-icon-bold {background-position:  -20px 0px;}
+ .tess-icon-italic {background-position:  -20px -20px;}
+ .tess-icon-textsize {background-position:  -20px -40px;}
+ .tess-icon-listbullets {background-position:  -20px -60px;}
+ .tess-icon-listnumbers {background-position:  -20px -80px;}
+ .tess-icon-quote {background-position:  -20px -100px;}
+ .tess-icon-link {background-position:  -20px -120px;}
+ .tess-icon-mention {background-position:  -20px -140px;}
+ .tess-icon-text {background-position:  -20px -160px;}
+ .tess-icon-multiplechoice{background-position:  -20px -180px;}
+ .tess-icon-number {background-position:  -20px -200px;}
+ .tess-icon-textsort{background-position:  -20px -220px;}
+ .tess-icon-calendar{background-position:  -20px -240px;}
+ .tess-icon-percent {background-position:  -20px -260px;}
+ .tess-icon-fx {background-position:  -20px -280px;}
+ .tess-icon-fxnumber {background-position:  -20px -300px;}
+ .tess-icon-fxtext {background-position:  -20px -320px;}
+ .tess-icon-checkbox{background-position:  -20px -340px;}
+ .tess-icon-union {background-position:  -20px -360px;}
+ .tess-icon-subtract {background-position:  -20px -380px;}
+ .tess-icon-intersect {background-position:  -20px -400px;}
+ .tess-icon-difference {background-position:  -20px -420px;}
+ .tess-icon-noboolean {background-position:  -20px -440px;}
+ .tess-icon-checklarge {background-position:  -20px -460px;}
+ .tess-icon-xlarge {background-position:  -20px -480px;}
+ .tess-icon-addlarge {background-position:  -20px -500px;}
+ .tess-icon-dashlarge {background-position:  -20px -520px;}
+
+ .tess-icon-check {background-position:  -40px 0px;}
+ .tess-icon-dash {background-position:  -40px -20px;}
+ .tess-icon-dot {background-position:  -40px -40px;}
+ .tess-icon-x {background-position:  -40px -60px;}
+ .tess-icon-add {background-position:  -40px -80px;}
+ .tess-icon-square {background-position:  -40px -100px;}
+ .tess-icon-squareoutline {background-position:  -40px -120px;}
+ .tess-icon-circle {background-position:  -40px -140px;}
+ .tess-icon-circleoutline {background-position:  -40px -160px;}
+ .tess-icon-checksquare {background-position:  -40px -180px;}
+ .tess-icon-dashsquare {background-position:  -40px -200px;}
+ .tess-icon-dotsquare {background-position:  -40px -220px;}
+ .tess-icon-xsquare {background-position:  -40px -240px;}
+ .tess-icon-checksquareoutline {background-position:  -40px -260px;}
+ .tess-icon-dashsquareoutline {background-position:  -40px -280px;}
+ .tess-icon-dotsquareoutline {background-position:  -40px -300px;}
+ .tess-icon-xsquareoutline {background-position:  -40px -320px;}
+ .tess-icon-checkround {background-position:  -40px -340px;}
+ .tess-icon-dashround {background-position:  -40px -360px;}
+ .tess-icon-dotround {background-position:  -40px -380px;}
+ .tess-icon-xround {background-position:  -40px -400px;}
+ .tess-icon-checkroundoutline {background-position:  -40px -420px;}
+ .tess-icon-dashroundoutline {background-position:  -40px -440px;}
+ .tess-icon-dotroundoutline {background-position:  -40px -460px;}
+ .tess-icon-xroundoutline {background-position:  -40px -480px;}
+
+ .tess-icon-arrowup {background-position:  -60px 0px;}
+ .tess-icon-arrowdown {background-position:  -60px -20px;}
+ .tess-icon-arrowleft {background-position:  -60px -40px;}
+ .tess-icon-arrowright {background-position:  -60px -60px;}
+ .tess-icon-arrowupdown {background-position:  -60px -80px;}
+ .tess-icon-arrrowleftright {background-position:  -60px -100px;}
+ .tess-icon-arrowall{background-position:  -60px -120px;}
+ .tess-icon-triangleup {background-position:  -60px -140px;}
+ .tess-icon-triangledown {background-position:  -60px -160px;}
+ .tess-icon-triangleleft {background-position:  -60px -180px;}
+ .tess-icon-triangleright {background-position:  -60px -200px;}
+ .tess-icon-minup {background-position:  -60px -220px;}
+ .tess-icon-mindown {background-position:  -60px -240px;}
+ .tess-icon-minleft {background-position:  -60px -260px;}
+ .tess-icon-minright {background-position:  -60px -280px;}
+ .tess-icon-maxup {background-position:  -60px -300px;}
+ .tess-icon-maxdown {background-position:  -60px -320px;}
+ .tess-icon-maxleft {background-position:  -60px -340px;}
+ .tess-icon-maxright {background-position:  -60px -360px;}
+ .tess-icon-chevronup {background-position:  -60px -380px;}
+ .tess-icon-chevrondown {background-position:  -60px -400px;}
+  .tess-icon-piechart {background-position:  -80px -420px;}
+ .tess-icon-barchart {background-position:  -80px -440px;}
+ .tess-icon-linechart {background-position:  -80px -480px;}
+ .tess-icon-keyup {background-position:  -60px -500px;}
+ .tess-icon-keydown {background-position:  -60px -520px;}
+ .tess-icon-keyleft {background-position:  -60px -540px;}
+ .tess-icon-keyright {background-position:  -60px -560px;}
+ .tess-icon-keyreturn {background-position:  -60px -580px;}
+
+ .tess-icon-bell {background-position:  -80px 0px;}
+ .tess-icon-search {background-position:  -80px -20px;}
+ .tess-icon-info {background-position:  -80px -40px;}
+ .tess-icon-folder {background-position:  -80px -60px;}
+ .tess-icon-folderopen {background-position:  -80px -80px;}
+ .tess-icon-filter {background-position:  -80px -100px;}
+ .tess-icon-mail {background-position:  -80px -120px;}
+ .tess-icon-bidder {background-position:  -80px -140px;}
+ .tess-icon-project {background-position:  -80px -160px;}
+ .tess-icon-compass {background-position:  -80px -180px;}
+ .tess-icon-flask {background-position:  -80px -200px;}
+ .tess-icon-history {background-position:  -80px -220px;}
+ .tess-icon-edit {background-position:  -80px -240px;}
+ .tess-icon-settings {background-position:  -80px -260px;}
+ .tess-icon-tabmenu {background-position:  -80px -280px;}
+ .tess-icon-currency {background-position:  -80px -300px;}
+ .tess-icon-location {background-position:  -80px -320px;}
+ .tess-icon-transfer {background-position:  -80px -340px;}
+ .tess-icon-scenario {background-position:  -80px -360px;}
+ .tess-icon-constraint {background-position:  -80px -380px;}
+ .tess-icon-truck {background-position:  -80px -400px;}
+ .tess-icon-block {background-position:  -80px -420px;}
+ .tess-icon-plan {background-position:  -80px -440px;}
+ .tess-icon-help {background-position:  -80px -460px;}
+ .tess-icon-world {background-position:  -80px -480px;}
+ .tess-icon-data {background-position:  -80px -500px;}
+ .tess-icon-chip {background-position:  -80px -520px;}
+ .tess-icon-package {background-position:  -80px -540px;}
+ .tess-icon-fruite {background-position:  -80px -560px;}
+ .tess-icon-plane {background-position:  -80px -580px;}
+ .tess-icon-bar {background-position:  -80px -600px;}
+ .tess-icon-drop {background-position:  -80px -620px;}
+ .tess-icon-locked {background-position:  -80px -640px;}
+ .tess-icon-unlocked {background-position:  -80px -660px;}
+ .tess-icon-upload {background-position:  -80px -680px;}
+ .tess-icon-download {background-position:  -80px -700px;}
+ .tess-icon-utensils {background-position:  -80px -720px;}
+ .tess-icon-trumpet {background-position:  -80px -740px;}
+ .tess-icon-clip {background-position:  -80px -760px;}
+ .tess-icon-projectsmall{background-position:  -80px -780px;}
+ .tess-icon-biddersmall {background-position:  -80px -800px;}
+
