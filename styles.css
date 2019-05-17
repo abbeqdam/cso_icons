@@ -142,14 +142,14 @@ h2 { background-color: #ffe7e7;
  .tess-icon-maxright {background-position:  -60px -360px;}
  .tess-icon-chevronup {background-position:  -60px -380px;}
  .tess-icon-chevrondown {background-position:  -60px -400px;}
-  .tess-icon-piechart {background-position:  -80px -420px;}
- .tess-icon-barchart {background-position:  -80px -440px;}
- .tess-icon-linechart {background-position:  -80px -480px;}
- .tess-icon-keyup {background-position:  -60px -500px;}
- .tess-icon-keydown {background-position:  -60px -520px;}
- .tess-icon-keyleft {background-position:  -60px -540px;}
- .tess-icon-keyright {background-position:  -60px -560px;}
- .tess-icon-keyreturn {background-position:  -60px -580px;}
+.tess-icon-piechart {background-position:  -60px -420px;}
+ .tess-icon-barchart {background-position:  -60px -440px;}
+ .tess-icon-linechart {background-position:  -60px -460px;}
+ .tess-icon-keyup {background-position:  -60px -480px;}
+ .tess-icon-keydown {background-position:  -60px -500px;}
+ .tess-icon-keyleft {background-position:  -60px -520px;}
+ .tess-icon-keyright {background-position:  -60px -540px;}
+ .tess-icon-keyreturn {background-position:  -60px -560px;}
 
  .tess-icon-bell {background-position:  -80px 0px;}
  .tess-icon-search {background-position:  -80px -20px;}
@@ -192,4 +192,12 @@ h2 { background-color: #ffe7e7;
  .tess-icon-clip {background-position:  -80px -760px;}
  .tess-icon-projectsmall{background-position:  -80px -780px;}
  .tess-icon-biddersmall {background-position:  -80px -800px;}
-
+ .tess-icon-target{background-position:  -80px -820px;}
+  .tess-icon-targetsmall{background-position:  -80px -840px;}
+  .tess-icon-palette{background-position:  -80px -860px;}
+  .tess-icon-snooze{background-position:  -80px -880px;}
+  .tess-icon-picture{background-position:  -80px -900px;}
+  .tess-icon-projectsmall{background-position:  -80px -920px;}
+  .tess-icon-filterSmall{background-position:  -80px -940px;}
+  .tess-icon-bin{background-position:  -80px -960px;}
+  .tess-icon-incumbent{background-position:  -80px -980px;}
