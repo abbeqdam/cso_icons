@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Sourcing Optimization Icons</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  
+  <div class="cso-icon">
+    <h2>CSO Icons</h2>
+    <table class="cso_icon_table">
+      <thead>
+      <tr>
+        <th>Icon</th>
+        <th>CSS Class Name</th>
+        <th>Background Position</th>
+      </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  <script type="text/javascript">
+
+    function createTableRows(prefix, iconBaseClass, tableSelector) {
+
+      var rowEl=null, tableEl = document.querySelector(tableSelector);
+
+      for (var i in document.styleSheets[0].cssRules) {
+        var cssRule = document.styleSheets[0].cssRules[i];
+        var className = (cssRule.selectorText || '').substring(1);
+
+        if (className.startsWith(prefix)) {
+          var iconName = className.split(',')[0];
+
+          rowEl = tableEl.insertRow();
+          rowEl.insertCell().innerHTML = '<div class="' + iconBaseClass + " " + iconName + '"></div>';
+          rowEl.insertCell().textContent = className;
+          rowEl.insertCell().textContent = cssRule.style.backgroundPosition;
+        }
+      }
+
+    }
+
+
+    createTableRows('tess-icon-', 'tess-icon', '.cso_icon_table tbody');
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,105 @@
+{
+  "csoNav": [
+    "Event",
+    "Data & Docuemnts",
+    "Sourcing setup",
+    "Messages",
+    "Bids & Submissions",
+    "Analysis",
+    "Reports",
+    "System"
+
+  ],
+
+  "Event": [
+    "Event Status",
+    "Timeline",
+    "Suppliers",
+    "Tasks & Deadlines",
+    "Team",
+    "Event Settings",
+    "Activity",
+    "Batch Jobs",
+    "Cloning",
+    "Event Notifications",
+    "Management Tasks",
+   "My Jobs"
+  ],
+
+  "Data & Documents": [
+    "Fact Sheets",
+    "Fact Sheet Templates",
+    "Constants",
+    "Team Documents",
+    "Terms and Conditions",
+    "Information Documents",
+    "All Documents"
+  ],
+  "Sourcing setup": [
+    "Items",
+    "Questionnaires",
+    "RFQ Questions",
+    "Predefined Alternative Bids",
+    "Excel Templates",
+    "Item Access",
+    "Bidding Rules",
+    "Bid Input Settings",
+    "Feedback Settings",
+    "Quantity & Historic Data",
+    "Discounts and On-Costs"
+    ],
+  "Messages": [
+  "Inbox",
+  "Sent Messages",
+  "Drafts",
+  "Message Templates",
+  "FAQ Publishing"
+  ],
+  "Bids & Submissions": [
+    "Submitted Bids",
+    "Submitted RFQ Questions",
+    "Submitted Item Questions",
+    "Submitted Documents",
+    "Dashboard",
+    "Old Dashboard",
+    "Place Bids",
+    "Questionnaire Replies",
+    "Questionnaire Scores"
+  ],
+  "Analysis": [
+    "Scenarios",
+    "Scenario Dashboard",
+    "Rule List",
+    "Scenario Settings",
+    "Selection Sheets",
+    "Filters"
+  ],
+  "Reports": [
+    "General Reports",
+    "Fact Sheet Reports",
+    "Multi-Event Reports",
+    "Standard Reports",
+    "Standard Reports (Old)",
+    "Reports based on Selection Sheets",
+    "Downloadable Documents",
+    "Contracts"
+  ],
+  "System": [
+    "Event templates",
+    "Base data",
+    "Users",
+    "Companies",
+    "Job Queue",
+    "Workers",
+    "System Settings",
+    "Websites",
+    "Translations",
+    "User Aliases",
+    "Company Aliases",
+    "End Points",
+    "API Keys",
+    "Commands",
+    "Labels"
+
+    ]
+}

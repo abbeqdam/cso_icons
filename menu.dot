@@ -1,0 +1,129 @@
+//Author= Aboozar.Eghdam@Coupa.com
+digraph G {
+label="\nMenu Items in CSO";
+start -> node_10;
+start -> node_20;
+node_10 -> node_101;
+node_10 -> node_102;
+node_10 -> node_103;
+node_10 -> node_104;
+node_10 -> node_105;
+node_10 -> node_106;
+node_10 -> node_107;
+node_10 -> node_108;
+node_10 -> node_109;
+node_10 -> node_110;
+node_10 -> node_111;
+node_10 -> node_112;
+
+node_20 -> node_201;
+node_20 -> node_202;
+node_20 -> node_203;
+node_20 -> node_204;
+node_20 -> node_205;
+node_20 -> node_206;
+node_20 -> node_207;
+node_20 -> node_208;
+
+
+node_10 [shape=oval, label="Event"];
+node_101 [shape=oval, label="Event Status"];
+node_102 [shape=oval, label="Timeline"];
+node_103 [shape=oval, label="Suppliers"];
+node_104 [shape=oval, label="Tasks & Deadlines"];
+node_105 [shape=oval, label="Team"];
+node_106 [shape=oval, label="Event Settings"];
+node_107 [shape=oval, label="Activity"];
+node_108 [shape=oval, label="Batch Jobs"];
+node_109 [shape=oval, label="Cloning"];
+node_110 [shape=oval, label="Event Notifications"];
+node_111 [shape=oval, label="Management Tasks"];
+node_112 [shape=oval, label="My Jobs"];
+
+node_20 [shape=oval, label="Data & Documents"];
+node_201 [shape=oval, label="Fact Sheets"];
+node_203 [shape=oval, label="Fact Sheet Templates"];
+node_204 [shape=oval, label="Constants"];
+node_205 [shape=oval, label="Team Documents"];
+node_206 [shape=oval, label="Terms and Conditions"];
+node_207 [shape=oval, label="Information Documents"];
+node_208 [shape=oval, label="All Documents"];
+
+rankdir=LR;
+
+
+Items
+Questionnaires
+RFQ Questions
+Predefined Alternative Bids
+Excel Templates
+Item Access
+Bidding Rules
+Bid Input Settings
+Feedback Settings
+Quantity & Historic Data
+Discounts and On-Costs
+
+Inbox
+Sent Messages
+Drafts
+Message Templates
+FAQ Publishing
+
+
+Submitted Bids
+Submitted RFQ Questions
+Submitted Item Questions
+Submitted Documents
+Dashboard
+Old Dashboard
+Place Bids
+Questionnaire Replies
+Questionnaire Scores
+
+Scenarios
+Scenario Dashboard
+Rule List
+Scenario Settings
+Selection Sheets
+Filters
+
+General Reports
+Fact Sheet Reports
+Multi-Event Reports
+Standard Reports
+Standard Reports (Old)
+Reports based on Selection Sheets
+Downloadable Documents
+Contracts
+
+Events
+Event templates
+Base data
+Users
+Companies
+System
+
+
+Jobs
+Job Queue
+Workers
+
+System Settings
+Websites
+Translations
+
+Integration
+User Aliases
+Company Aliases
+End Points
+API Keys
+Commands
+Labels
+
+
+rankdir=LR;
+    //‚Äì e.g. with details on dosage, study population, duration of treatment and follow up. ForDOACs, the text should highlight that NNTs relate to comparison with warfarin, not comparison with placebo.
+
+
+}
