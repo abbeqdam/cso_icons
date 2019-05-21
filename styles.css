@@ -76,6 +76,7 @@ h2 { background-color: #ffe7e7;
  .tess-icon-double_sealed_single {background-position:  0px -860px; width: 20px; height: 20px;  }
  .tess-icon-double_unsealed {background-position:  0px -880px; width: 20px; height: 20px; }
 
+
  .tess-icon-bold {background-position:  -20px 0px;}
  .tess-icon-italic {background-position:  -20px -20px;}
  .tess-icon-textsize {background-position:  -20px -40px;}
@@ -129,6 +130,7 @@ h2 { background-color: #ffe7e7;
  .tess-icon-dashroundoutline {background-position:  -40px -440px;}
  .tess-icon-dotroundoutline {background-position:  -40px -460px;}
  .tess-icon-xroundoutline {background-position:  -40px -480px;}
+ .tess-icon-excel_download {background-position:  -40px -500px;}
 
  .tess-icon-arrowup {background-position:  -60px 0px;}
  .tess-icon-arrowdown {background-position:  -60px -20px;}
