@@ -9,8 +9,22 @@
 <body>
   
   <div class="cso-icon">
-    <h2>CSO Icons</h2>
-    <table class="cso_icon_table">
+    <h2>CSO Icons 16x16</h2>
+    <table class="cso_icon_16_table">
+      <thead>
+      <tr>
+        <th>Icon</th>
+        <th>CSS Class Name</th>
+        <th>Background Position</th>
+      </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <div class="cso-icon32">
+    <h2>CSO Icons 32x32</h2>
+    <table class="cso_icon_32_table">
       <thead>
       <tr>
         <th>Icon</th>
@@ -44,7 +58,8 @@
     }
 
 
-    createTableRows('tess-icon-', 'tess-icon', '.cso_icon_table tbody');
+    createTableRows('tess-icon-', 'tess-icon', '.cso_icon_16_table tbody');
+    createTableRows('tess-icon32-', 'tess-icon32', '.cso_icon_32_table tbody');
 
   </script>
 </body>

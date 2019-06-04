@@ -5,8 +5,12 @@ body { background-color: #FFF;
 textarea.css_input { width: 600px;
   height: 200px;}
 
-.tess-icon { background: url(sprite_icons_cso_16x16.svg) no-repeat top left;
+.tess-icon { background: url(sprites/sprite_icons_cso_16x16.svg) no-repeat top left;
   width: 16px; height: 16px;  
+  display: inline-block;}
+
+.tess-icon32 { background: url(sprites/sprite_icons_cso_32x32.svg) no-repeat top left;
+  width: 32px; height: 32px;  
   display: inline-block;}
   
 
@@ -75,6 +79,7 @@ h2 { background-color: #ffe7e7;
  .tess-icon-double_sealed {background-position:  0px -840px; width: 20px; height: 20px;  }
  .tess-icon-double_sealed_single {background-position:  0px -860px; width: 20px; height: 20px;  }
  .tess-icon-double_unsealed {background-position:  0px -880px; width: 20px; height: 20px; }
+ .tess-icon-double_double_sealed_unsealing {background-position:  0px -900px; width: 20px; height: 20px; }
 
 
  .tess-icon-bold {background-position:  -20px 0px;}
@@ -204,11 +209,19 @@ h2 { background-color: #ffe7e7;
  .tess-icon-projectsmall{background-position:  -80px -780px;}
  .tess-icon-biddersmall {background-position:  -80px -800px;}
  .tess-icon-target{background-position:  -80px -820px;}
-  .tess-icon-targetsmall{background-position:  -80px -840px;}
-  .tess-icon-palette{background-position:  -80px -860px;}
-  .tess-icon-snooze{background-position:  -80px -880px;}
-  .tess-icon-picture{background-position:  -80px -900px;}
-  .tess-icon-projectsmall{background-position:  -80px -920px;}
-  .tess-icon-filterSmall{background-position:  -80px -940px;}
-  .tess-icon-bin{background-position:  -80px -960px;}
-  .tess-icon-incumbent{background-position:  -80px -980px;}
+ .tess-icon-targetsmall{background-position:  -80px -840px;}
+ .tess-icon-palette{background-position:  -80px -860px;}
+ .tess-icon-snooze{background-position:  -80px -880px;}
+ .tess-icon-picture{background-position:  -80px -900px;}
+ .tess-icon-projectsmall{background-position:  -80px -920px;}
+ .tess-icon-filterSmall{background-position:  -80px -940px;}
+ .tess-icon-bin{background-position:  -80px -960px;}
+ .tess-icon-incumbent{background-position:  -80px -980px;}
+
+
+.tess-icon32-project{background-position:  0px 0px;}
+.tess-icon32-project-sealed {background-position:  0px -40px;}
+.tess-icon32-project-template{background-position:  0px -80px;}
+.tess-icon32-project-template-sealed {background-position:  0px -120px;}
+.tess-icon32-project-predefined{background-position:  0px -160px;}
+.tess-icon32-project-predefined-sealed {background-position:  0px -200px;}
