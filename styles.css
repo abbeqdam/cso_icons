@@ -224,8 +224,10 @@ h2 { background-color: #ffe7e7;
   .tess-icon32-project-sealed-test {background-position:  0px -160px;}
   .tess-icon32-project-template{background-position:  0px -200px;}
   .tess-icon32-project-template-sealed {background-position:  0px -240px;}
-  .tess-icon32-project-predefined{background-position:  0px -280px;}
-  .tess-icon32-project-predefined-sealed {background-position:  0px -320px;}
+  .tess-icon32-project-template-double-sealed {background-position:  0px -280px;}
+  .tess-icon32-project-predefined{background-position:  0px -320px;}
+  .tess-icon32-project-predefined-sealed {background-position:  0px -360px;}
+  .tess-icon32-project-predefined-double-sealed {background-position:  0px -400px;}
   .tess-icon32-sealed_event {background-position:  -40px 0px;}
   .tess-icon32-double_sealed_event {background-position:  -40px -40px;}
   .tess-icon32-test_event {background-position:  -40px -80px;}
