@@ -511,6 +511,9 @@ h2 { background-color: #ffe7e7;
   .tess-icon-fa-minus-square-o {background-position: -220px -120px;}
   .tess-icon-fa-photo-o {background-position: -220px -200px;}
   .tess-icon-fa-question-circle-o {background-position: -220px -240px;}
+
+  .tess-icon-fa-triangle {background-position: -240px 0px;}
+  .tess-icon-fa-i-triangle {background-position: -240px -20px;}
  
   .tess-icon32-project{background-position:  0px 0px;}
   .tess-icon32-project-sealed {background-position:  0px -40px;}
