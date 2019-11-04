@@ -520,6 +520,10 @@ h2 { background-color: #ffe7e7;
   .tess-icon-fa-exclamation-triangle-yellow_gray {background-position: -240px -100px;}
   .tess-icon-fa-exclamation-triangle-yellow_black {background-position: -240px -120px;}
  
+  .tess-icon-fa-link-gray {background-position: -260px 0px;}
+  .tess-icon-fa-unlink-gray {background-position: -260px -20px;}
+  .tess-icon-fa-link-ligh_gray {background-position: -260px -40px;}
+  .tess-icon-fa-unlink-ligh_gray {background-position: -260px -60px;}
  
   .tess-icon32-project{background-position:  0px 0px;}
   .tess-icon32-project-sealed {background-position:  0px -40px;}
