@@ -537,6 +537,7 @@ h2 { background-color: #ffe7e7;
   .tess-icon32-project-predefined{background-position:  0px -360px;}
   .tess-icon32-project-predefined-sealed {background-position:  0px -400px;}
   .tess-icon32-project-predefined-double-sealed {background-position:  0px -440px;}
+  .tess-icon32-dataExchange-supplyChain {background-position: 0 -480px; }
   .tess-icon32-sealed_event {background-position:  -40px 0px;}
   .tess-icon32-double_sealed_event {background-position:  -40px -40px;}
   .tess-icon32-fa-exclamation-triangle-black {background-position: -40px -80px;}
@@ -550,3 +551,4 @@ h2 { background-color: #ffe7e7;
   .tess-icon32-fa-question-circle-gray {background-position: -40px -400px;} 
   .tess-icon32-fa-question-circle-light_gray {background-position: -40px -440px;} 
   .tess-icon32-questionnaire-excel {background-position: -80px 0px;} 
+
