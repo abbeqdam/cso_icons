@@ -79,8 +79,8 @@ h2 { background-color: #ffe7e7;
   .tess-icon-double_sealed_single {background-position:  0px -840px; width: 20px; height: 20px;  }
   .tess-icon-double_unsealed {background-position:  0px -860px; width: 20px; height: 20px; }
   .tess-icon-double_double_sealed_unsealing {background-position:  0px -880px; width: 20px; height: 20px; }
-  .tess-icon-folderTagged  {background-position:  0px -900px; width: 20px; height: 20px; }
-  .tess-icon-folderTagged_open  {background-position:  0px -920px; width: 20px; height: 20px; }
+
+ 
 
  
   .tess-icon-bold {background-position:  -20px 0px;}
@@ -137,6 +137,7 @@ h2 { background-color: #ffe7e7;
   .tess-icon-dotroundoutline {background-position:  -40px -460px;}
   .tess-icon-xroundoutline {background-position:  -40px -480px;}
   .tess-icon-excel_download {background-position:  -40px -500px;}
+  .tess-icon-folderTagged  {background-position:  -40px -520px; }
  
   .tess-icon-arrowup {background-position:  -60px 0px;}
   .tess-icon-arrowdown {background-position:  -60px -20px;}
