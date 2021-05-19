@@ -564,5 +564,11 @@ h2 { background-color: #ffe7e7;
   .tess-icon32-messages-unreadQuestion { background-position: -120px -120px; } 
   .tess-icon32-messages-readQuestion { background-position: -120px -160px; } 
   .tess-icon32-messages-respondedQuestion { background-position: -120px -200px; } 
+  .tess-icon32-messages-unreadMessageThread { background-position: -120px -240px; } 
+  .tess-icon32-messages-readMessageThread { background-position: -120px -280px; } 
+  .tess-icon32-messages-respondedMessageThread { background-position: -120px -320px; } 
+  .tess-icon32-messages-unreadQuestionThread { background-position: -120px -360px; } 
+  .tess-icon32-messages-readQuestionThread { background-position: -120px -400px; } 
+  .tess-icon32-messages-respondedQuestionThread { background-position: -120px -440px; } 
 
 
