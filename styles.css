@@ -141,6 +141,9 @@ h2 { background-color: #ffe7e7;
   .tess-icon-flatView {background-position:  -40px -540px; }
   .tess-icon-threadedView  {background-position:  -40px -560px; }
   .tess-icon-approval  {background-position:  -40px -580px; }
+  .tess-icon-awarded  {background-position:  -40px -600px; }
+  .tess-icon-folderUnTagged  {background-position:  -40px -620px; }
+
 
  
   .tess-icon-arrowup {background-position:  -60px 0px;}
