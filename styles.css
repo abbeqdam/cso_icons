@@ -143,6 +143,9 @@ h2 { background-color: #ffe7e7;
   .tess-icon-approval  {background-position:  -40px -580px; }
   .tess-icon-awarded  {background-position:  -40px -600px; }
   .tess-icon-folderUnTagged  {background-position:  -40px -620px; }
+  .tess-icon-editPen  {background-position:  -40px -640px; }
+  .tess-icon-MenuSquare  {background-position:  -40px -660px; }
+
 
 
  
@@ -567,6 +570,9 @@ h2 { background-color: #ffe7e7;
   .tess-icon32-scenarioSubBids {background-position: -40px -600px;} 
   .tess-icon32-scenarioAwardedBlocked {background-position: -40px -640px;}
   .tess-icon32-scenarioApproved {background-position: -40px -680px;}
+  .tess-icon32-constraint {background-position: -40px -720px;}
+  .tess-icon32-constraintSkipped {background-position: -40px -760px;}
+  .tess-icon32-scope {background-position: -40px -800px;}
   .tess-icon32-questionnaire-excel {background-position: -80px 0px;} 
   .tess-icon32-messages-unreadMessage { background-position: -120px 0px; } 
   .tess-icon32-messages-readMessage { background-position: -120px -40px; } 
